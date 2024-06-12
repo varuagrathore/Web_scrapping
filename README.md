@@ -38,7 +38,7 @@ The `Web_scrapping_triump_lies.py` script performs the following tasks:
 
 ### Example Usage
 
-Here is a basic example of what the `scraper.py` script might look like:
+Here is a basic example of what the `Web_scrapping_triump_lies.py` script might look like:
 
 ```python
 import requests
